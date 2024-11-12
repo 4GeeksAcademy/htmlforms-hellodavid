@@ -1,38 +1,11 @@
-.body{
+#body{
     border-color: black;
     border-style: solid;
     width: 800px ;
     margin:auto;
-    
-}
-.h1{
-    border-color: black;
-    border-style: solid;
-    padding: 10px;
-    background-color: aliceblue;
 }
 #form{
-    padding: 10px;
-}
-#col1{
-    padding: 10px;
-    background-color: rgba(207, 82, 113, 0.429);
-    
-}
-#message{
-    width: 400px;
-   margin: end;
-}
-#final{
-    padding: 20px;
-    background-color: aliceblue;
-}
-#cancel{
-    background-color: grey;
-}
-#cards{
-    
-    
+    padding-left: 20px;
 }
 
 
